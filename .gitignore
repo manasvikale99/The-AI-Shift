@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Claude Code config
+.claude/
+
+# Large raw BLS data (download from bls.gov/oes/tables.htm)
+BLS Occupational Employment Data - 5 Years/
+
+# Python
+*.pyc
+__pycache__/
+
+# Temp build scripts
+generate_viz.js

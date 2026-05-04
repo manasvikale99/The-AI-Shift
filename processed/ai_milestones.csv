@@ -1,0 +1,130 @@
+Model,Organization,Domain,Task,Publication date,Model accessibility,Organization categorization,Open model weights?,is_milestone,domain_simplified
+Go-explore,"Uber AI,OpenAI",Games,Atari,2020-04-27,Unreleased,"Industry,Industry",No,False,Other
+GPT3-6.7B (rerun of original),"Microsoft,OpenAI",Language,Language modeling/generation,2020-05-28,Unreleased,"Industry,Industry",No,False,Language
+GPT-3 175B (davinci),OpenAI,Language,"Text autocompletion,Language modeling/generation",2020-05-28,API access,Industry,No,True,Language
+iGPT-L,OpenAI,"Image generation,Vision",Image completion,2020-06-17,Open weights (unrestricted),Industry,Yes,False,Image/Vision
+iGPT-XL,OpenAI,"Vision,Image generation",Image completion,2020-06-17,Open weights (unrestricted),Industry,Yes,False,Image/Vision
+GPT-3 XL,OpenAI,Language,"Text autocompletion,Language modeling/generation",2020-06-22,,Industry,,True,Language
+GPT-3 Small,OpenAI,Language,"Text autocompletion,Language modeling/generation",2020-06-22,,Industry,,True,Language
+GPT-3 Medium,OpenAI,Language,"Text autocompletion,Language modeling/generation",2020-06-22,,Industry,,True,Language
+GPT-3 Large,OpenAI,Language,"Text autocompletion,Language modeling/generation",2020-06-22,,Industry,,True,Language
+GPT-3 2.7B,OpenAI,Language,"Text autocompletion,Language modeling/generation",2020-06-22,,Industry,,True,Language
+GPT-3 6.7B,OpenAI,Language,"Text autocompletion,Language modeling/generation",2020-06-22,,Industry,,True,Language
+GPT-3 13B,OpenAI,Language,"Text autocompletion,Language modeling/generation",2020-06-22,,Industry,,True,Language
+CLIP (ViT L/14@336px),OpenAI,"Multimodal,Vision,Language,Video","Zero-shot image classification,Character recognition (OCR),Video description",2021-01-05,Open weights (unrestricted),Industry,Yes,False,Language
+DALL-E,OpenAI,Image generation,"Text-to-image,Image generation",2021-01-05,API access,Industry,No,True,Image/Vision
+CLIP (ResNet-50),OpenAI,"Multimodal,Vision,Language,Video","Zero-shot image classification,Character recognition (OCR),Video description",2021-01-05,Open weights (unrestricted),Industry,Yes,False,Language
+Very Deep VAEs (ImageNet-64),OpenAI,Image generation,"Image generation,Image representation",2021-03-16,Open weights (unrestricted),Industry,Yes,False,Image/Vision
+ADM,OpenAI,Image generation,"Image generation,Text-to-image",2021-05-11,Open weights (non-commercial),Industry,Yes,False,Image/Vision
+GPT2-Large+LHOPT,OpenAI,Language,Language modeling/generation,2021-06-02,Unreleased,Industry,No,False,Language
+Codex,OpenAI,Language,Code autocompletion,2021-07-07,API access,Industry,No,False,Language
+GLIDE,OpenAI,Image generation,"Image generation,Text-to-image",2021-12-20,Open weights (unrestricted),Industry,Yes,False,Image/Vision
+InstructGPT 350M,OpenAI,Language,Language modeling/generation,2022-01-27,,Industry,,False,Language
+InstructGPT 1.3B,OpenAI,Language,Language modeling/generation,2022-01-27,API access,Industry,No,False,Language
+InstructGPT 6B,OpenAI,Language,Language modeling/generation,2022-01-27,API access,Industry,No,False,Language
+InstructGPT 175B,OpenAI,Language,Language modeling/generation,2022-01-27,API access,Industry,No,False,Language
+Statement Curriculum Learning,OpenAI,"Language,Mathematics","Automated theorem proving,Language modeling/generation,Question answering,Mathematical reasoning",2022-03-02,API access,Industry,No,False,Language
+GPT3-6.7B + muP,"Microsoft,OpenAI",Language,Language modeling/generation,2022-03-07,Unreleased,"Industry,Industry",No,False,Language
+"GPT-3.5 (davinci-002)
+",OpenAI,Language,Language modeling,2022-03-15,API access,Industry,No,True,Language
+DALL·E 2,OpenAI,Image generation,"Text-to-image,Image generation",2022-04-06,API access,Industry,No,False,Image/Vision
+WebGPT,OpenAI,Language,"Language modeling/generation,Question answering,Search",2022-07-01,Unreleased,Industry,No,False,Language
+Whisper,OpenAI,Speech,Speech recognition (ASR),2022-09-21,Open weights (unrestricted),Industry,Yes,False,Speech
+Whisper v2,OpenAI,Speech,Speech recognition (ASR),2022-12-05,Open weights (unrestricted),Industry,Yes,False,Speech
+text-embedding-ada-002,OpenAI,Language,Language modeling,2022-12-15,,Industry,,False,Language
+Operator,OpenAI,"Language,Vision","Language modeling/generation,Question answering,System control,Code generation,Instruction interpretation,Search,Quantitative reasoning",2023-01-23,API access,Industry,No,False,Language
+Anthropic LM 175B,Anthropic,Language,"Language modeling/generation,Question answering",2023-02-15,Unreleased,Industry,No,False,Language
+Consistency Model (CIFAR-10),OpenAI,Image generation,Image generation,2023-03-02,,Industry,,False,Image/Vision
+Claude,Anthropic,Language,"Language modeling,Chat,Language modeling/generation,Question answering",2023-03-14,API access,Industry,No,False,Language
+GPT-4 (Jun 2023),OpenAI,"Multimodal,Language,Vision","Language modeling,Language modeling/generation,Question answering,Visual question answering",2023-03-15,API access,Industry,No,True,Language
+GPT-4 (Mar 2023),OpenAI,"Multimodal,Language,Vision","Language modeling,Language modeling/generation,Question answering,Visual question answering",2023-03-15,API access,Industry,No,True,Language
+Anthropic LM 52B,Anthropic,Language,"Language modeling/generation,Question answering",2023-04-12,Unreleased,Industry,No,False,Language
+Claude 1.3,Anthropic,Language,"Language modeling,Chat",2023-04-18,API access,Industry,No,False,Language
+GPT-3.5 Turbo,OpenAI,Language,"Language modeling/generation,Question answering,Chat",2023-06-13,API access,Industry,No,True,Language
+Claude 2,Anthropic,Language,"Language modeling,Chat,Language modeling/generation,Question answering",2023-07-11,API access,Industry,No,True,Language
+Claude Instant,Anthropic,Language,"Language modeling,Chat",2023-08-09,API access,Industry,No,False,Language
+GPT-4V,OpenAI,"Multimodal,Vision,Language","Language modeling,Visual question answering",2023-09-25,API access,Industry,No,True,Language
+GPT-3.5 Turbo Instruct,OpenAI,Language,"Language modeling/generation,Question answering,Chat",2023-09-28,API access,Industry,No,True,Language
+DALL·E 3,OpenAI,Image generation,"Image generation,Text-to-image",2023-10-19,API access,Industry,No,False,Image/Vision
+GPT-4 Turbo (Nov 2023),OpenAI,"Multimodal,Vision,Language,Image generation","Chat,Language modeling/generation,Image generation,Speech synthesis,Table tasks,Visual question answering,Image captioning",2023-11-06,API access,Industry,No,True,Language
+Whisper v3,OpenAI,Speech,Speech recognition (ASR),2023-11-06,Open weights (unrestricted),Industry,Yes,False,Speech
+Consistency Decoder,OpenAI,Image generation,Image generation,2023-11-06,Open weights (unrestricted),Industry,Yes,False,Image/Vision
+tts-1-hd,OpenAI,Speech,"Text-to-speech (TTS),Speech synthesis",2023-11-09,API access,Industry,No,False,Speech
+tts-1,OpenAI,Speech,"Text-to-speech (TTS),Speech synthesis",2023-11-09,API access,Industry,No,False,Speech
+Claude 2.1,Anthropic,Language,"Language modeling,Chat,Language modeling/generation,Question answering",2023-11-21,API access,Industry,No,True,Language
+babbage-002,OpenAI,Language,Language modeling,2024-01-04,,Industry,,False,Language
+text-embedding-3-large,OpenAI,Language,Language modeling,2024-01-25,API access,Industry,No,False,Language
+text-embedding-3-small,OpenAI,Language,Language modeling,2024-01-25,API access,Industry,No,False,Language
+Sora,OpenAI,"Video,Vision","Video generation,Text-to-video,Image-to-video,Video-to-video",2024-02-15,Hosted access (no API),Industry,No,True,Video
+Claude 3 Haiku,Anthropic,Language,"Chat,Code generation,Language modeling/generation,Question answering",2024-03-04,API access,Industry,No,True,Language
+Claude 3 Opus,Anthropic,"Multimodal,Language,Vision","Chat,Image captioning,Code generation,Language modeling/generation",2024-03-04,API access,Industry,No,True,Language
+Claude 3 Sonnet,Anthropic,"Multimodal,Language,Vision","Chat,Image captioning,Code generation,Language modeling/generation",2024-03-04,API access,Industry,No,True,Language
+Voice Engine,OpenAI,"Audio,Speech",Audio generation,2024-03-29,,Industry,,False,Speech
+GPT-4 Turbo (Apr 2024),OpenAI,"Multimodal,Vision,Language,Image generation","Chat,Language modeling/generation,Image generation,Speech synthesis,Table tasks,Visual question answering,Image captioning",2024-04-09,API access,Industry,No,True,Language
+GPT-4o,OpenAI,"Multimodal,Language,Audio,Speech,Vision","Chat,Image generation,Audio generation,Vision-language generation,Table tasks,Language modeling/generation,Question answering,Speech recognition (ASR),Speech-to-text",2024-05-13,API access,Industry,No,True,Language
+Claude 3.5 Sonnet,Anthropic,"Multimodal,Language,Vision","Chat,Image captioning,Code generation,Language modeling/generation",2024-06-20,API access,Industry,No,True,Language
+CriticGPT,OpenAI,Language,,2024-06-27,,Industry,,False,Language
+GPT-4o mini,OpenAI,"Language,Multimodal,Vision","Chat,Language modeling/generation,Code generation,Visual question answering",2024-07-18,API access,Industry,No,True,Language
+SearchGPT,OpenAI,Search,,2024-07-25,,Industry,,False,Other
+GPT-4o (Aug 2024),OpenAI,"Multimodal,Language,Audio,Speech,Vision","Chat,Image generation,Audio generation,Vision-language generation,Table tasks,Language modeling/generation,Question answering,Speech recognition (ASR),Speech-to-text",2024-08-06,API access,Industry,No,True,Language
+o1-preview,OpenAI,"Language,Mathematics,Biology","Code generation,Language modeling/generation,Quantitative reasoning,Chat,Question answering,Translation",2024-09-12,API access,Industry,No,True,Language
+o1-mini,OpenAI,Language,"Code generation,Language modeling/generation,Quantitative reasoning,Chat,Question answering,Translation",2024-09-12,API access,Industry,No,True,Language
+Claude 3.5 Haiku,Anthropic,Language,"Chat,Code generation,Language modeling/generation,Question answering",2024-10-22,API access,Industry,No,True,Language
+GPT-4o (Nov 2024),OpenAI,"Multimodal,Language,Audio,Speech,Vision","Chat,Image generation,Audio generation,Vision-language generation,Table tasks,Language modeling/generation,Question answering,Speech recognition (ASR),Speech-to-text",2024-11-20,API access,Industry,No,True,Language
+o1,OpenAI,"Language,Mathematics,Multimodal","Code generation,Language modeling/generation,Quantitative reasoning,Chat,Question answering,Translation,Mathematical reasoning",2024-12-05,API access,Industry,No,True,Language
+Sora Turbo,OpenAI,"Video,Vision","Video generation,Text-to-video",2024-12-09,Hosted access (no API),Industry,No,True,Video
+o3,OpenAI,"Language,Vision,Multimodal","Language modeling/generation,Question answering,Quantitative reasoning,Code generation,Visual question answering,Search,Instruction interpretation,Visual puzzles",2024-12-20,API access,Industry,No,True,Language
+GPT-4b micro,"OpenAI,Retro Biosciences",Biology,"Protein generation,Proteins,Protein or nucleotide language model (pLM/nLM)",2025-01-17,Unreleased,"Industry,Industry",No,True,Other
+Computer-Using Agent (CUA),OpenAI,"Vision,Language,Multimodal","Instruction interpretation,System control",2025-01-23,Hosted access (no API),Industry,No,False,Language
+GPT-4o (Jan 2025),OpenAI,"Multimodal,Language,Audio,Speech,Vision","Chat,Image generation,Audio generation,Vision-language generation,Table tasks,Language modeling/generation,Question answering,Speech recognition (ASR),Speech-to-text",2025-01-29,API access,Industry,No,True,Language
+o3-mini,OpenAI,Language,"Language modeling/generation,Question answering,Quantitative reasoning,Code generation",2025-01-31,API access,Industry,No,True,Language
+Claude 3.7 Sonnet,Anthropic,"Language,Vision,Multimodal","Language modeling/generation,Question answering,Code generation,Quantitative reasoning,Translation,Instruction interpretation,Visual question answering",2025-02-24,API access,Industry,No,True,Language
+GPT-4.5,OpenAI,"Language,Vision,Multimodal","Language modeling/generation,Question answering,Quantitative reasoning,Translation,Visual question answering,Code generation,Instruction interpretation",2025-02-27,API access,Industry,No,True,Language
+o1-pro,OpenAI,"Language,Mathematics,Multimodal","Code generation,Language modeling/generation,Quantitative reasoning,Chat,Question answering,Translation,Mathematical reasoning",2025-03-19,API access,Industry,No,True,Language
+4o Image Generation,OpenAI,Image generation,"Image generation,Text-to-image",2025-03-25,Hosted access (no API),Industry,No,False,Image/Vision
+GPT-4o (Mar 2025),OpenAI,"Multimodal,Language,Audio,Speech,Vision","Chat,Image generation,Audio generation,Vision-language generation,Table tasks,Language modeling/generation,Question answering,Speech recognition (ASR),Speech-to-text",2025-03-27,API access,Industry,No,True,Language
+GPT-4.1,OpenAI,"Multimodal,Language,Vision,Video","Language modeling/generation,Code generation,Question answering,Quantitative reasoning,Instruction interpretation,System control,Visual question answering,Video description",2025-04-14,API access,Industry,No,True,Language
+GPT-4.1 nano,OpenAI,"Multimodal,Language,Vision,Video","Language modeling/generation,Code generation,Question answering,Quantitative reasoning,Instruction interpretation,System control,Visual question answering,Video description",2025-04-14,API access,Industry,No,True,Language
+GPT-4.1 mini,OpenAI,"Multimodal,Language,Vision,Video","Language modeling/generation,Code generation,Question answering,Quantitative reasoning,Instruction interpretation,System control,Visual question answering,Video description",2025-04-14,API access,Industry,No,True,Language
+o4-mini,OpenAI,"Multimodal,Language,Vision","Language modeling/generation,Search,Question answering,Quantitative reasoning,Chat,Translation,Code generation,Visual question answering,Instruction interpretation,Visual puzzles",2025-04-16,API access,Industry,No,False,Language
+gpt-image-1,OpenAI,"Image generation,Vision","Image generation,Text-to-image",2025-04-23,API access,Industry,No,False,Image/Vision
+codex-mini,OpenAI,Language,Code generation,2025-05-16,API access,Industry,No,False,Language
+codex-1,OpenAI,Language,Code generation,2025-05-16,API access,Industry,No,False,Language
+Claude Opus 4,Anthropic,"Language,Multimodal,Vision","Code generation,Language modeling/generation,Quantitative reasoning,Search,Visual question answering,Translation,Image captioning,Instruction interpretation,Mathematical reasoning,Visual puzzles,Code autocompletion,Chat,Character recognition (OCR),Language modeling,Language generation,Text autocompletion,Retrieval-augmented generation,System control",2025-05-22,API access,Industry,No,False,Language
+Claude Sonnet 4,Anthropic,"Language,Multimodal,Vision","Code generation,Language modeling/generation,Quantitative reasoning,Search,Visual question answering,Translation,Image captioning,Instruction interpretation,Mathematical reasoning,Visual puzzles,Code autocompletion,Chat,Character recognition (OCR),Language modeling,Language generation,Text autocompletion,Retrieval-augmented generation,System control",2025-05-22,API access,Industry,No,False,Language
+o3 Operator,OpenAI,"Language,Vision,Multimodal","Language modeling/generation,Question answering,System control,Code generation,Instruction interpretation,Search,Quantitative reasoning,Visual question answering,Character recognition (OCR)",2025-05-23,Hosted access (no API),Industry,No,True,Language
+Claude Gov,Anthropic,Language,"Language modeling/generation,Question answering",2025-06-05,Unreleased,Industry,No,False,Language
+o3-pro,OpenAI,,,2025-06-10,,Industry,,True,Other
+ChatGPT agent,OpenAI,Language,"Language modeling/generation,Question answering,Quantitative reasoning,System control,Table tasks,Code generation,Instruction interpretation,Translation,Search",2025-07-17,Hosted access (no API),Industry,No,True,Language
+gpt-oss-20b,OpenAI,Language,"Language modeling/generation,Question answering",2025-08-05,Open weights (unrestricted),Industry,Yes,False,Language
+gpt-oss-120b,OpenAI,Language,"Language modeling/generation,Question answering",2025-08-05,Open weights (unrestricted),Industry,Yes,False,Language
+Claude Opus 4.1,Anthropic,"Language,Multimodal,Vision","Language modeling/generation,Question answering,System control,Code generation,Search,Quantitative reasoning,Mathematical reasoning,Visual question answering",2025-08-05,API access,Industry,No,False,Language
+GPT-5 mini,OpenAI,"Multimodal,Language,Vision","Language modeling/generation,Question answering",2025-08-07,API access,Industry,No,False,Language
+GPT-5 nano,OpenAI,"Multimodal,Language,Vision","Language modeling/generation,Question answering",2025-08-07,API access,Industry,No,False,Language
+GPT-5,OpenAI,"Multimodal,Language,Vision","Language modeling/generation,Question answering",2025-08-07,API access,Industry,No,False,Language
+gpt-realtime,OpenAI,"Speech,Vision,Language","Speech recognition (ASR),Speech synthesis,Visual question answering,Speech-to-speech,Audio question answering",2025-08-28,API access,Industry,No,False,Language
+GPT‑5-Codex,OpenAI,Language,"Code generation,System control",2025-09-15,API access,Industry,No,False,Language
+Claude Sonnet 4.5,Anthropic,"Language,Vision,Multimodal","Language modeling/generation,Code generation,System control,Question answering,Quantitative reasoning,Mathematical reasoning,Visual question answering",2025-09-29,API access,Industry,No,False,Language
+Sora 2.0,OpenAI,Video,"Video generation,Text-to-video",2025-09-30,Hosted access (no API),Industry,No,True,Video
+GPT-5 Pro,OpenAI,"Multimodal,Language,Vision","Language modeling/generation,Question answering",2025-10-07,API access,Industry,No,False,Language
+Claude Haiku 4.5,Anthropic,Language,"Chat,Code generation,Language modeling/generation,Question answering",2025-10-15,API access,Industry,No,False,Language
+GPT-5.1-Codex,OpenAI,Language,Language modeling/generation,2025-11-12,API access,Industry,No,False,Language
+GPT-5.1-Codex-mini,OpenAI,"Language,Multimodal",Language modeling/generation,2025-11-12,API access,Industry,No,False,Language
+GPT-5.1 Instant,OpenAI,"Multimodal,Language,Vision","Language modeling/generation,Question answering",2025-11-13,API access,Industry,No,False,Language
+GPT-5.1,OpenAI,"Multimodal,Language,Vision","Language modeling/generation,Question answering",2025-11-13,API access,Industry,No,False,Language
+GPT-5.1-Codex-Max,OpenAI,Language,Language modeling/generation,2025-11-19,API access,Industry,No,False,Language
+Claude Opus 4.5,Anthropic,"Language,Multimodal,Vision","Code generation,Language modeling/generation,Quantitative reasoning,Search,Visual question answering,Translation,Image captioning,Instruction interpretation,Mathematical reasoning,Visual puzzles,Code autocompletion,Chat,Character recognition (OCR),Language modeling,Language generation,Text autocompletion,Retrieval-augmented generation,System control",2025-11-24,API access,Industry,No,False,Language
+GPT-5.2,OpenAI,,"Language modeling/generation,Question answering",2025-12-11,API access,Industry,No,False,Other
+GPT-5.2 Pro,OpenAI,"Multimodal,Language,Vision","Language modeling/generation,Question answering",2025-12-11,API access,Industry,No,False,Language
+GPT-5.2 Codex,OpenAI,Language,Language modeling/generation,2025-12-18,API access,Industry,No,False,Language
+Claude Opus 4.6,Anthropic,"Language,Multimodal,Vision","Code generation,Language modeling/generation,Quantitative reasoning,Search,Visual question answering,Translation,Image captioning,Instruction interpretation,Mathematical reasoning,Visual puzzles,Code autocompletion,Chat,Character recognition (OCR),Language modeling,Language generation,Text autocompletion,Retrieval-augmented generation,System control",2026-02-05,API access,Industry,No,False,Language
+GPT-5.3 Codex,OpenAI,Language,Language modeling/generation,2026-02-05,API access,Industry,No,False,Language
+Claude Sonnet 4.6,Anthropic,"Language,Multimodal,Vision","Code generation,Language modeling/generation,Quantitative reasoning,Search,Visual question answering,Translation,Image captioning,Instruction interpretation,Mathematical reasoning,Visual puzzles,Code autocompletion,Chat,Character recognition (OCR),Language modeling,Language generation,Text autocompletion,Retrieval-augmented generation,System control",2026-02-17,API access,Industry,No,False,Language
+GPT-5.4,OpenAI,"Multimodal,Language,Vision","Language modeling/generation,Question answering",2026-03-05,API access,Industry,No,False,Language
+GPT-5.4 Pro,OpenAI,"Multimodal,Language,Vision","Language modeling/generation,Question answering",2026-03-05,API access,Industry,No,False,Language
+GPT-5.4 Nano,OpenAI,Language,"Language modeling/generation,Question answering",2026-03-17,API access,Industry,No,False,Language
+GPT-5.4 Mini,OpenAI,Language,"Language modeling/generation,Question answering",2026-03-17,API access,Industry,No,False,Language
+Claude Opus 4.7,Anthropic,Language,"Question answering,Language modeling/generation",2026-04-16,API access,Industry,No,False,Language
+GPT Image 2,OpenAI,Image generation,Image generation,2026-04-21,API access,Industry,No,False,Image/Vision
+GPT-5.5,OpenAI,"Multimodal,Language,Vision","Language modeling/generation,Question answering",2026-04-23,API access,Industry,No,False,Language
+GPT-5.5 Pro,OpenAI,"Multimodal,Language,Vision","Language modeling/generation,Question answering",2026-04-23,API access,Industry,No,False,Language

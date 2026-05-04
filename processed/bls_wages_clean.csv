@@ -1,0 +1,31 @@
+year,OCC_CODE,OCC_TITLE,TOT_EMP,A_MEDIAN,A_MEAN,A_PCT10,A_PCT25,A_PCT75,A_PCT90,H_MEDIAN,sector_label
+2020,11-0000,Management Occupations,7947300,109760,126480,51670,74250,159550,,52.77,Management
+2020,13-0000,Business and Financial Operations Occupations,8387490,72250,80680,40310,53550,98390,130380.0,34.73,Business & Finance
+2020,15-0000,Computer and Mathematical Occupations,4587700,91350,96770,46400,64730,123640,157120.0,43.92,Tech & Computing
+2020,17-0000,Architecture and Engineering Occupations,2515040,83160,90300,46190,62120,111960,144090.0,39.98,Engineering
+2020,19-0000,"Life, Physical, and Social Science Occupations",1296060,69760,79360,36930,50020,99010,132370.0,33.54,Science & Research
+2020,27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",1857500,53150,64400,25490,34980,78900,113630.0,25.55,Arts & Media
+2021,11-0000,Management Occupations,8909910,102450,123370,47860,74710,160960,,49.25,Management
+2021,13-0000,Business and Financial Operations Occupations,9053790,76570,82610,39060,53410,100220,130620.0,36.81,Business & Finance
+2021,15-0000,Computer and Mathematical Occupations,4654750,97540,99860,47430,62590,128030,163640.0,46.9,Tech & Computing
+2021,17-0000,Architecture and Engineering Occupations,2436520,79840,91740,47490,61470,112550,148460.0,38.39,Engineering
+2021,19-0000,"Life, Physical, and Social Science Occupations",1273640,72740,80730,37830,49460,100230,131230.0,34.97,Science & Research
+2021,27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",1815290,51190,66100,29010,37270,79200,122420.0,24.61,Arts & Media
+2022,11-0000,Management Occupations,9860740,107360,131200,50290,75350,163710,220550.0,51.62,Management
+2022,13-0000,Business and Financial Operations Occupations,9677720,76850,86080,42750,56840,102210,134480.0,36.95,Business & Finance
+2022,15-0000,Computer and Mathematical Occupations,5003910,100440,108130,49330,67730,134210,171250.0,48.29,Tech & Computing
+2022,17-0000,Architecture and Engineering Occupations,2481170,83700,94670,48630,63920,116960,150450.0,40.24,Engineering
+2022,19-0000,"Life, Physical, and Social Science Occupations",1314360,74330,83640,39490,51460,102850,135240.0,35.74,Science & Research
+2022,27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",2063380,58030,76500,30410,38690,85880,129670.0,27.9,Arts & Media
+2023,11-0000,Management Occupations,10495770,116880,137750,54550,78330,169090,231620.0,56.19,Management
+2023,13-0000,Business and Financial Operations Occupations,10087830,79050,90580,45480,59590,105360,140490.0,38.0,Business & Finance
+2023,15-0000,Computer and Mathematical Occupations,5177400,104200,113140,51850,73900,141040,176760.0,50.1,Tech & Computing
+2023,17-0000,Architecture and Engineering Occupations,2539660,91420,99090,51130,67640,124130,159630.0,43.95,Engineering
+2023,19-0000,"Life, Physical, and Social Science Occupations",1389430,78280,87870,43680,57040,106250,140280.0,37.63,Science & Research
+2023,27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",2106490,58920,75520,31200,39220,84790,127880.0,28.33,Arts & Media
+2024,11-0000,Management Occupations,10966830,122090,141760,57010,79900,171610,,58.7,Management
+2024,13-0000,Business and Financial Operations Occupations,10351440,80920,93680,47310,61430,109370,150040.0,38.9,Business & Finance
+2024,15-0000,Computer and Mathematical Occupations,5192890,105850,116810,54100,76350,146650,180110.0,50.89,Tech & Computing
+2024,17-0000,Architecture and Engineering Occupations,2567210,97310,103980,55550,74040,128080,164360.0,46.79,Engineering
+2024,19-0000,"Life, Physical, and Social Science Occupations",1446770,78980,89690,45480,59050,107440,145910.0,37.97,Science & Research
+2024,27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",2098690,60140,77040,32540,41290,88370,129110.0,28.91,Arts & Media
