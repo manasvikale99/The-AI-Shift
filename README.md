@@ -6,7 +6,7 @@ An interactive data visualization exploring the relationship between the pace of
 
 ## Live Demo
 
-**[View the interactive visualization →](https://manasvikale.github.io/511-ai-shift/)**
+**[View the interactive visualization →](https://manasvikale99.github.io/511-ai-shift/)**
 
 ## What You'll See
 
